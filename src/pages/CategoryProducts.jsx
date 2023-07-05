@@ -4,7 +4,9 @@ import {data} from "../data";
 import Product from '../components/Product'
 
 const CategoryProducts = () => {
-  
+  const { name } = useParams();
+
+
 };
 
 export default CategoryProducts;

@@ -16,7 +16,11 @@ const CategoryProducts = () => {
 
   console.log(products);
 
-  
+  return (
+    <div className="categoryPoducts">
+      
+    </div>
+  );
 };
 
 export default CategoryProducts;

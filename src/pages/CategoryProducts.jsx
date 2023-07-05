@@ -14,7 +14,9 @@ const CategoryProducts = () => {
     setProducts(p);
   }, []);
 
+  console.log(products);
 
+  
 };
 
 export default CategoryProducts;

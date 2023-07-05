@@ -6,7 +6,9 @@ import Product from '../components/Product'
 const CategoryProducts = () => {
   const { name } = useParams();
 
+  const [products, setProducts] = useState([]);
 
+ 
 };
 
 export default CategoryProducts;

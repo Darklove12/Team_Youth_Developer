@@ -4,6 +4,8 @@ import Viewdata from '../pages/Viewdata';
 
 function Viewinfro(){
 
+  const {name} = useParams();
+
 
 }
 

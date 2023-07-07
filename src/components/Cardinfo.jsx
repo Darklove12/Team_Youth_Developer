@@ -4,6 +4,9 @@ import ProductData from '../pages/ProductData';
 
 function CardInfo(){
 
+  const {name} = useParams();
+
+
 
 }
 

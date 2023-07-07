@@ -8,7 +8,19 @@ function CardInfo(){
 
   return (
     <div className="container">
-      
+        {
+            ProductData.filter((card )=> card.name === name).map ((card,index)=>(
+                <div key={index} >
+  
+                <img src={card.Image} alt="" />
+                <h2>{card.name}</h2>
+                <h4>{card.price}</h4>
+  
+                </div>
+            )
+  
+            )
+        }
     </div>
 )
 }

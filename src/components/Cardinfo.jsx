@@ -6,8 +6,11 @@ function CardInfo(){
 
   const {name} = useParams();
 
-
-
+  return (
+    <div className="container">
+      
+    </div>
+)
 }
 
 export default CardInfo

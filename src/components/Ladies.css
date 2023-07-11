@@ -21,4 +21,9 @@ body{
   font-size: 30px;
 }
 
-  
+.card-img-top{
+  background-color: rgb(115, 99, 99);
+  border-radius: 1rem;
+  height: 19rem;
+}
+

@@ -1,7 +1,7 @@
 import React from "react";
 import './Navbar.css'
 
-// function Navbar() {
+function Navbar() {
 //   return (
 //     <div>
 //       <nav className="navbar navbar-expand-lg bg-body-tertiary">

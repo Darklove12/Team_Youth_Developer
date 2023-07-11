@@ -8,3 +8,9 @@
   color:#2c2b2b;
   margin-top: 20rem;
 }
+
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}

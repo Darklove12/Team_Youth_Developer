@@ -50,7 +50,12 @@ function footer() {
           </div>
 
           <div class="col-md-4 col-sm-6 col-xs-12">
-            
+            <ul class="social-icons">
+              <li><a class="facebook" href="https://www.facebook.com"><i class="bi bi-facebook"></i></a></li>
+              <li><a class="twitter" href="https://help.twitter.com"><i class="bi bi-twitter"></i></a></li>
+              <li><a class="dribbble" href="https://dribbble.com/"><i class="bi bi-dribbble"></i></a></li>
+              <li><a class="linkedin" href="https://www.linkedin.com"><i class="bi bi-linkedin"></i></a></li>
+            </ul>
           </div>
         </div>
       </div>

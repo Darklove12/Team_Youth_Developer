@@ -5,7 +5,15 @@ import '../Components/Footer.css'
 
 function footer() {
   return (
-    
+    <>
+    <footer class="site-footer-1">
+
+</footer>
+
+    </>
+
+
+
   )
 }
 

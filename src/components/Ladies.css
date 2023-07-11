@@ -57,4 +57,18 @@ body{
         font-size: 22px;
         }
         
-        
+        .card button {
+          border: none;
+          outline: 0;
+          padding: 12px;
+          color: white;
+          
+          text-align: center;
+          cursor: pointer;
+          width: 100%;
+          font-size: 18px;
+          border-radius: 5rem;
+          }
+          
+         
+          

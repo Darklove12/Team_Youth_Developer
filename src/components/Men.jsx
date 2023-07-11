@@ -31,30 +31,30 @@ const Men= () => {
 ]
 
 
-// return (
-// <div>
-// <h1 className='hd-heading'>Men</h1>
-// <div className="grid-container">
-//   {
-//     products.map(product => {
-//       return (
-//         <div className="card" >
-//           <img src={product.image} className="card-img-top" alt="..." />
-//           <div className="card-body">
-//             <h5 className="card-title">{product.name}</h5>
-//             <p className="card-text">{product.price}</p>
-//             <a href="#" className="btn btn-primary">Click on</a>
-//           </div>
-//         </div>
-//       )
-//     })
+return (
+<div>
+<h1 className='hd-heading'>Men</h1>
+<div className="grid-container">
+  {
+    products.map(product => {
+      return (
+        <div className="card" >
+          <img src={product.image} className="card-img-top" alt="..." />
+          <div className="card-body">
+            <h5 className="card-title">{product.name}</h5>
+            <p className="card-text">{product.price}</p>
+            <a href="#" className="btn btn-primary">Click on</a>
+          </div>
+        </div>
+      )
+    })
 
-//   }
+  }
 
-// </div>
-// </div>
+</div>
+</div>
 
-// )
+)
 
  
   }

@@ -9,7 +9,7 @@ return (
   <div>
     <h1 className='hd-heading'>Ladies</h1>
     <div className="grid-container">
-      {
+      {/* {
         Viewdata.map((view, index)=> {
           return (
             <div key={index} className="card" >
@@ -27,7 +27,7 @@ return (
           )
         })
 
-      }
+      } */}
 
     </div>
   </div>

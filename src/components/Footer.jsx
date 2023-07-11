@@ -9,7 +9,9 @@ function footer() {
     <footer class="site-footer-1">
     <div class="container">
     <div class="row">
-          
+    <div class="col-sm-12 col-md-6">
+            
+          </div>
         </div>
       </div>
 </footer>

@@ -4,7 +4,9 @@ import React from 'react'
 import '../Components/Footer.css'
 
 function footer() {
-  
+  return (
+    
+  )
 }
 
 export default footer

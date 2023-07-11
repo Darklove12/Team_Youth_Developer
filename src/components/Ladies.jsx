@@ -1,7 +1,7 @@
 import React from "react"
 import {Link} from "react-router-dom"
 import Viewdata from "../pages/Viewdata";
-// import '../components/Ladies.css'
+import '../components/Ladies.css'
 
 const Ladies = () => {
 

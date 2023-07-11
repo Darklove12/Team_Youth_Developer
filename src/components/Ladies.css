@@ -14,4 +14,11 @@ body{
 
 }
 
+.grid-container > div {
 
+  text-align: center;
+  padding: 10px 0;
+  font-size: 30px;
+}
+
+  

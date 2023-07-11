@@ -3,6 +3,8 @@
 import React from 'react'
 import '../Components/Footer.css'
 
-
+function footer() {
+  
+}
 
 export default footer

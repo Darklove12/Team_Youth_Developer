@@ -7,7 +7,9 @@ function footer() {
   return (
     <>
     <footer class="site-footer-1">
-
+    <div class="container">
+        
+      </div>
 </footer>
 
     </>

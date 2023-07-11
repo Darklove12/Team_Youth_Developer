@@ -10,7 +10,7 @@ function footer() {
     <div class="container">
     <div class="row">
     <div class="col-sm-12 col-md-6">
-    <h6>Neighborhood Market Info</h6>
+            <h6>Neighborhood Market Info</h6>
             <div class="col-xs-6 col-md-3">
             <ul class="footer-links">
               <li><a href="/home">About us</a></li>
@@ -18,11 +18,29 @@ function footer() {
               <li><a href="/Men">Find Store</a></li>
               <li><a href="Ladies">Term of Serivice</a></li>
               <li><a href="/Promos">Refund Policy</a></li>
+            
             </ul>
-         
           </div>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Help Help?</h6>
+            <ul class="footer-links">
+              <li><a href="#">Contact</a></li>
+              <li><a href="#">Find YourFit</a></li>
+              <li><a href="#">Delivery & Return"</a></li>
+              <li><a href="#">Terms & Conditions</a></li>
+              <li><a href="#">Privacy Policy</a></li>
+
+            </ul>
+          </div>
+
         </div>
-      </div>
+        </div>
+        <hr/>
+      
+
+      
 </footer>
 
     </>

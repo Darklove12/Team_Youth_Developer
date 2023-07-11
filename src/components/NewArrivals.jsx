@@ -8,12 +8,12 @@ import '../components/NewArrivals.css'
 function NewArrivals() {
   return (
     <div className="container">
-      {ProductData.map((items, index) => (
+      {ProductData.map((card, index) => (
         <div key={index} className="card">
-          <img src={items.Image} className="card-img-top" alt="..." />
+          <img src={card.Image} className="card-img-top" alt="..." />
           <div className="card-body">
-            <h5 className="card-title">{items.name}</h5>
-           <Link to={`/card/${items.name}`}>
+            <h5 className="card-title">{card.name}</h5>
+           <Link to={`/list/${card.name}`}>
             <a href="#" className="btn btn-primary">
               Click Me
             </a>

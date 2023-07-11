@@ -8,7 +8,8 @@ import Ladies from "./components/Ladies";
 import Men from "./components/Men";
 import Promos from "./components/Promos";
 import Giftcard from "./components/Giftcard";
-import CardInfo from "./components/Cardinfo";
+import Login from "./components/Login";
+import CardInfo from "./components/CardInfo";
 import Viewinfro from "./pages/ViewInfro";
 
 
@@ -37,12 +38,12 @@ const router = createBrowserRouter([
         element: <CategoryProducts />,
       },
       {
-        path: "newarrivals",
+        path: "newarrivals/",
         element: <NewArrivals/>,
       },
 
       {
-        path: "/card:name",
+        path: "/list/:name",
         element: <CardInfo/>,
       },
       {
@@ -60,6 +61,10 @@ const router = createBrowserRouter([
       {
         path: "giftcard",
         element: <Giftcard/>,
+      },
+      {
+        path: "Login",
+        element: <Login/>,
       },
       {
         path: "/card/:name",

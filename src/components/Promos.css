@@ -1,3 +1,29 @@
 .btn-group{
-    margin-left: 15rem;
+    margin-left: -79rem;
+    margin-top: 6rem;
+    height: 2rem;
+    width: 4rem;
+}
+.image-auto{
+    position: absolute;
+    width: 99.9%;
+    height: 75rem;
+    left: .5px;
+    top: 3rem;
+}
+
+.saleImg-1{
+    position: relative;
+    left: 30rem;
+    width: 85vh;
+    height: 70vh;
+    bottom: -5rem;
+}
+
+.saleImg-2{
+    width: 85vh;
+    height: 70vh;
+    position: relative;
+    right: 10.5rem;
+    bottom: -40rem;
 }

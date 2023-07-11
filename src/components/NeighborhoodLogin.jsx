@@ -5,14 +5,14 @@ function NeighborhoodLogin() {
   return (
     <div>
       <div class="container-cardz">
+        
         <div class="cardz">
+            <div>
+                <p className="loginz">
+                    Login
+                </p>
+            </div>
           <div class="top-div">
-            <h2>Neighborhood</h2>
-            <h4>Welcome back to Neighborhood</h4>
-            <p>
-              New here? <br/>
-              <a href="#">Create an account</a>
-            </p>
           </div>
 
           <div class="input-text">
@@ -33,14 +33,20 @@ function NeighborhoodLogin() {
             <i class="fa fa-eye-slash passcode"></i>
             <a href="#">Forgot your password?</a>
           </div>
-
+          
           <div class="remember">
             <div>
               <input type="checkbox" name="rr" id="r1" />
               <label for="r1">Remember your password</label>
             </div>
           </div>
+          <p>
+          New here?
+          </p>
+          <a href="#">Create an account</a>
           <div class="sign-in">
+
+        
             <button>Sign in</button>
           </div>
 

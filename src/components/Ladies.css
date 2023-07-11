@@ -71,4 +71,12 @@ body{
           }
           
          
-          
+          .card button:hover {
+            opacity: 0.7;
+            }
+
+            #navFonts{
+              font-family: 'Noto Sans Display', sans-serif;
+              
+              }
+              

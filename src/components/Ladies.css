@@ -52,4 +52,9 @@ body{
       columns: 5px;
       }
       
-     
+      .price {
+        color: grey;
+        font-size: 22px;
+        }
+        
+        

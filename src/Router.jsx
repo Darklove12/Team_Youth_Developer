@@ -11,6 +11,8 @@ import Giftcard from "./components/Giftcard";
 import Login from "./components/Login";
 import CardInfo from "./components/CardInfo";
 import Viewinfro from "./pages/ViewInfro";
+import Register from "./components/auth/Register";
+
 
 
 
@@ -70,6 +72,12 @@ const router = createBrowserRouter([
         path: "/card/:name",
         element: <CardInfo/>,
       },
+      {
+        path: "/register",
+        element: <Register/>,
+      },
+      
+
       
     ],
   },

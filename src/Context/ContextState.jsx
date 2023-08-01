@@ -1,15 +1,16 @@
-import React, {useState} from 'react'
-import AppContext from './AppContext'
+import React from 'react'
+import MyContext from './MyContext'
 
 function ContextState({children}) {
-const [user, setUser] = useState('fashion')
-const [password, setPassword] = useState('1111')
-const [address, setAdress] = useState('Johannesburg')
+
+  const data = [
+    {id: 1, username: 'bathande@gmail.com', Email: '1234'}
+  ]
 
   return (
-    <AppContext.Provider value={[user, password,address]}>
+    <MyContext.Provider value={data}>
          {children}
-    </AppContext.Provider>
+    </MyContext.Provider>
   )
 }
 

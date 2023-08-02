@@ -1,4 +1,4 @@
-.btn-group {
+/* .btn-group {
     margin-left: -79rem;
     margin-top: 6rem;
     height: 2rem;
@@ -27,11 +27,11 @@
     position: relative;
     right: 10.5rem;
     bottom: -40rem;
-}
+} */
 
-body {
+/* body {
     font-family: Roboto, Helvetica, Arial, sans-serif;
-}
+} */
 
 @media (min-width: 1025px) {
     .h-custom {

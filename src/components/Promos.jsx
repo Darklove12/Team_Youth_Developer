@@ -28,8 +28,8 @@ function Promos() {
                                         <MDBCol lg="7">
                                             <MDBTypography tag="h5">
                                                 <a href="#!" className="text-body">
-                                                    <MDBIcon fas icon="long-arrow-alt-left me-2" /> Continue
-                                                    shopping
+                                                    <MDBIcon fas icon="long-arrow-alt-left me-2" /> PROMOS
+                    
                                                 </a>
                                             </MDBTypography>
 

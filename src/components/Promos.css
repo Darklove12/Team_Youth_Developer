@@ -59,3 +59,7 @@
     padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
     color: var(--bs-card-color);
 }
+.card-body .p-4{
+    margin-left: -150px;
+
+}

@@ -38,7 +38,7 @@ function Promos() {
                                             <div className="d-flex justify-content-between align-items-center mb-4">
                                                 <div>
                                                     <p className="mb-1">Shopping cart</p>
-                                                    <p className="mb-0">You have 4 items in your cart</p>
+                                                    <p className="mb-0">You have 12 items in your cart</p>
                                                 </div>
                                                 <div>
                                                     <p>
@@ -57,13 +57,13 @@ function Promos() {
                                                         <div className="d-flex flex-row align-items-center">
                                                             <div>
                                                                 <MDBCardImage
-                                                                    src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-shopping-carts/img1.webp"
+                                                                    src="https://ae01.alicdn.com/kf/Sf195866fb29340778bc6b13b51c952a6i/Tracksuits-Women-Casual-Solid-Warm-Suits-Hoodies-Sweatpants-Autumn-Winter-Pullover-Sweatshirts-Pants-Sports-Suit-Two.jpg_220x220q90.jpg_.webp"
                                                                     fluid className="rounded-3" style={{ width: "65px" }}
                                                                     alt="Shopping item" />
                                                             </div>
                                                             <div className="ms-3">
                                                                 <MDBTypography tag="h5">
-                                                                    Iphone 11 pro
+                                                                Ladies Sweaters and Joggers
                                                                 </MDBTypography>
                                                                 <p className="small mb-0">256GB, Navy Blue</p>
                                                             </div>
@@ -76,7 +76,7 @@ function Promos() {
                                                             </div>
                                                             <div style={{ width: "80px" }}>
                                                                 <MDBTypography tag="h5" className="mb-0">
-                                                                    R19 000
+                                                                    R500
                                                                 </MDBTypography>
                                                             </div>
                                                             <a href="#!" style={{ color: "#cecece" }}>

@@ -10,7 +10,7 @@ function footer() {
         <div class="container">
           <div class="row">
             <div class="col-sm-12 col-md-6">
-              <h6>Neighborhood Market Info</h6>
+              <h6 className='neig'>Neighborhood Market Info</h6>
               <div class="col-xs-6 col-md-3">
                 <ul class="footer-links">
                   <li><a href="/home">About us</a></li>
@@ -18,13 +18,12 @@ function footer() {
                   <li><a href="/Men">Find Store</a></li>
                   <li><a href="Ladies">Term of Serivice</a></li>
                   <li><a href="/Promos">Refund Policy</a></li>
-
                 </ul>
               </div>
             </div>
 
           <div class="col-xs-6 col-md-3">
-            <h6>Help Help?</h6>
+            <h6 className='help'>Help?</h6>
             <ul class="footer-links">
               <li><a href="/home">Contact</a></li>
               <li><a href="/NewArrivals">Find YourFit</a></li>
@@ -45,7 +44,6 @@ function footer() {
             <div class="col-md-8 col-sm-6 col-xs-12">
               <p class="copyright-text">Copyright &copy; @2023 Neughbrohooh Market
                 <br />
-                <a>Neughbrohooh Market</a>.
               </p>
             </div>
 

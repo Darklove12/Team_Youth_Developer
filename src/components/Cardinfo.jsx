@@ -1,6 +1,7 @@
 import React from 'react'
 import {useParams} from 'react-router-dom'
 import ProductData from '../pages/ProductData';
+import './CSS/Cardinfo.css'
 
 function CardInfo(){
 

@@ -6,15 +6,17 @@ import Product from '../components/Product'
 const CategoryProducts = () => {
   const { name } = useParams();
 
+  console.log(name)
+
+
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
+
     let p = data.filter((product) => product.category === name);
 
     setProducts(p);
   }, []);
-
-  console.log(products);
 
   return (
     <div className="categoryPoducts">

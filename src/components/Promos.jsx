@@ -1,8 +1,9 @@
 import React from 'react'
 import './Promos.css'
+
 const Promos = () => {
     return (
-
+      
         <div className='container'>
             <img src="https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw3Z0h3T0F3Q1ZwNHx8ZW58MHx8fHx8&auto=format&fit=crop&w=600&q=60" className="image-auto" alt="" />
             <img src="https://images.unsplash.com/photo-1534349735944-2b3a6f7a268f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" className='saleImg-1' alt="" />
@@ -15,6 +16,7 @@ const Promos = () => {
                     <li>
                         <a class="dropdown-item" href="https://media.istockphoto.com/id/638162758/photo/girlfriends-going-shopping.jpg?s=612x612&w=0&k=20&c=8CSDJdAN_QMaAuD3ejiys9faRW0GdfG-ra9l4nbD5RM=">PROMOTIONS for Womens</a></li>
                     <li><a class="dropdown-item" href="https://ae01.alicdn.com/kf/Sf195866fb29340778bc6b13b51c952a6i/Tracksuits-Women-Casual-Solid-Warm-Suits-Hoodies-Sweatpants-Autumn-Winter-Pullover-Sweatshirts-Pants-Sports-Suit-Two.jpg_220x220q90.jpg_.webp">2 Ladies Sweaters and Joggers for R500</a></li>
+
 
                     <li><a class="dropdown-item" href="https://images.unsplash.com/photo-1621665422246-fde75fb7e7f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3xnOXpqODVsRExIRXx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60">2 ladies Shoes Fashions for R1 800</a></li>
                     <li><hr class="dropdown-divider" /></li>

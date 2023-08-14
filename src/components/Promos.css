@@ -3,8 +3,7 @@
     margin-top: 6rem;
     height: 2rem;
     width: 4rem;
-}
-
+  
 .image-auto {
     position: absolute;
     width: 99.9%;
@@ -27,8 +26,8 @@
     position: relative;
     right: 10.5rem;
     bottom: -40rem;
-}
-
+} 
 body {
     font-family: Roboto, Helvetica, Arial, sans-serif;
 }
+

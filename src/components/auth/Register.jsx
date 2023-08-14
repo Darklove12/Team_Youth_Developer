@@ -48,8 +48,6 @@ const Register = () => {
         <br />
         <a href="/login" className="words">Do you have an account?</a>
       </form>
-
-      <div>sger,mtbkuejrthkuerhtulerht</div>
     </div>
   );
 };

@@ -9,10 +9,10 @@ import Men from "./components/Men";
 import Promos from "./components/Promos";
 import Giftcard from "./components/Giftcard";
 import Login from "./components/Login";
-import CardInfo from "./components/CardInfo";
+import CardInfo from "./components/Cardinfo";
 import Viewinfro from "./pages/ViewInfro";
 import Register from "./components/auth/Register";
-
+import Cart from "./pages/Cart"
 
 
 
@@ -75,6 +75,10 @@ const router = createBrowserRouter([
       {
         path: "/register",
         element: <Register/>,
+      },
+      {
+        path: "/cart",
+        element: <Cart/>,
       },
       
 

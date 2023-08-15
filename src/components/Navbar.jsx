@@ -59,7 +59,7 @@ function Navbar() {
               </li>
               <li className="nav-item">
                 <a className="bi bi-bag-plus-fill" href="/cart">
-                  
+                   
                 </a>
               </li>
 

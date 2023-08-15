@@ -15,7 +15,7 @@ function CardInfo(){
   
                 <img src={card.Image} alt="" />
                 <h2>{card.name}</h2>
-                <h4>{card.price}</h4>
+                {/* <h4>{card.price}</h4> */}
   
                 </div>
             )

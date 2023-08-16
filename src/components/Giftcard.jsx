@@ -4,7 +4,7 @@
    return (
     <div>
       <div class='container-giftcard'>
-      <article class="gift-card">
+      <article class="gift-card" id='gift_now'>
         <div class="gift-card__image">
         </div>
         <section class="gift-card__content">

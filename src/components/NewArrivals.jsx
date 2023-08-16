@@ -14,9 +14,9 @@ function NewArrivals() {
           <div className="card-body">
             <h5 className="card-title">{card.name}</h5>
            <Link to={`/list/${card.name}`}>
-            <a href="#" className="btn btn-primary">
-              Click Me
-            </a>
+            <button className="addToCartBttn">
+              Add To Cart
+            </button>
             </Link>
           </div>
         </div>

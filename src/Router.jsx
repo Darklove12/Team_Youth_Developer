@@ -12,7 +12,7 @@ import Login from "./components/Login";
 import CardInfo from "./components/Cardinfo";
 import Viewinfro from "./pages/ViewInfro";
 import Register from "./components/auth/Register";
-import Cart from "./pages/Cart"
+import Cart  from "./cart/Cart"
 
 
 

@@ -2,7 +2,7 @@ import React from "react";
 import {Link} from "react-router-dom"
 import '../components/NewArrivals'
 import ProductData from "../pages/ProductData";
-import '../components/NewArrivals.css'
+import './CSS/NewArrivals.css'
 
 
 function NewArrivals() {

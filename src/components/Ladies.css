@@ -19,7 +19,7 @@
 }
 
 
-/* .btn-primary {
+.btn-primary {
   background-color: rgb(255, 179, 0);
   border-radius: 0rem;
   padding: 0.7rem;
@@ -108,4 +108,4 @@ code {
 li > button
 {
   border-style: none;
-}   */
+} 

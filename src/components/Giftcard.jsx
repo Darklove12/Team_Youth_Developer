@@ -1,7 +1,7 @@
-import React from 'react'
-import './Giftcard.css'
-function Giftcard() {
-  return (
+ import React from 'react'
+ import './Giftcard.css'
+ function Giftcard() {
+   return (
     <div>
       <div class='container-giftcard'>
       <article class="gift-card">
@@ -17,7 +17,7 @@ function Giftcard() {
       </div>
 
     </div>
-  )
-}
+   )
+ }
 
-export default Giftcard
+ export default Giftcard

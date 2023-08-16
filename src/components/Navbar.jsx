@@ -57,7 +57,7 @@ function Navbar() {
                   Login
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="cart-item">
                 <a className="bi bi-bag-plus-fill" href="/cart">
                    
                 </a>

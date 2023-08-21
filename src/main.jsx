@@ -11,9 +11,9 @@ import ContextState from './Context/ContextState.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-  <ContextState>
-    <RouterProvider router={router} />
-  </ContextState>
+    <ContextState>
+      <RouterProvider router={router} />
+    </ContextState>
 
-</React.StrictMode>,
+  </React.StrictMode>
 )

@@ -1,6 +1,7 @@
 import React from 'react'
 import {useParams} from 'react-router-dom'
 import ProductData from '../pages/ProductData';
+import './CSS/Cardinfo.css'
 
 function CardInfo(){
 
@@ -14,7 +15,7 @@ function CardInfo(){
   
                 <img src={card.Image} alt="" />
                 <h2>{card.name}</h2>
-                <h4>{card.price}</h4>
+                {/* <h4>{card.price}</h4> */}
   
                 </div>
             )

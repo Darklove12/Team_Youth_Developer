@@ -1,16 +1,13 @@
 import React from "react";
-import './Navbar.css'
+import "./Navbar.css";
 
 function Navbar() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
-        
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            
-           Neighborhood Market
-
+            Neighborhood Market
           </a>
           <button
             className="navbar-toggler"
@@ -60,13 +57,12 @@ function Navbar() {
                   Login
                 </a>
               </li>
-
-              <li className="nav-item">
-                <a className="nav-link" href="/Register">
-                  Register
+              <li className="cart-item">
+                <a className="bi bi-bag-plus-fill" href="/cart">
+                   
                 </a>
               </li>
-             
+
             </ul>
           </div>
         </div>

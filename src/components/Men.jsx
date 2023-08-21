@@ -25,7 +25,7 @@ const Men= () => {
     price: 'R1899,59',
     image: 'https://images.unsplash.com/photo-1559582798-678dfc71ccd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZhc2hpb24lMjBtZW5zfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60' },
     { name: 'Rollneck',
-    price: 'R9998,78',
+    price: 'R10000,99',
     image: 'https://images.unsplash.com/photo-1577709295428-75f3f210bb52?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=600&q=60' },
 
 ]

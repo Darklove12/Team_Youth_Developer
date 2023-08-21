@@ -38,8 +38,20 @@ const Promos = () => {
           name="Female + Male Special!!!"
           priceText="woooooow R2999"
         />
-
-
+<PromoItem
+          backgroundColor="blue"
+          image="https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFnfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+          header="Bag Nice"
+          name="Female Special!!!"
+          priceText="soooo hot R599"
+        />
+<PromoItem
+          backgroundColor="grey"
+          image="https://images.unsplash.com/photo-1507464098880-e367bc5d2c08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          header="Vanz"
+          name="Male Special!!!"
+          priceText="come on come on hot R 3 599"
+        />
 
 
       </div>

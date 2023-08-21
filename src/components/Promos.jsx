@@ -33,9 +33,8 @@ import './Promos.css'
         </div>
         <section class="gift-card__content">
         <h1 className="Sub_header_Promos">Women</h1>
-          <div class="gift-card__amount">2 Ladies Sweaters and Joggers</div>
+          <div class="gift-card__name">2 Ladies Sweaters and Joggers</div>
           <div class="gift-card__amount-remaining">R750 Remaining</div>
-    
         </section>
       </article>
       </div>

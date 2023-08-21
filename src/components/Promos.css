@@ -1,15 +1,15 @@
-.Header_Ladies
+.Header_Promos
 {
   
   width: 100%;
   height: 80px;
 
 }
-.Sub_header_Ladies
+.Sub_header_Promos
 {
   text-align: center;
 }
-.Header_Ladies > ul
+.Header_Promos > ul
 {
   display: flex;
   list-style: none;

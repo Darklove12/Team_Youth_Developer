@@ -1,12 +1,12 @@
 import React from 'react'
-import './Giftcard.css'
+import './Promos.css'
 
  function Promos () {
    return (
     <div>
 
-<div className='Header_Ladies'>
-        <h1 className="Sub_header_Ladies">PROMOS</h1>
+<div className='Header_Promos'>
+        <h1 className="Sub_header_Promos">PROMOS</h1>
         <ul>
           <li>
             <button>

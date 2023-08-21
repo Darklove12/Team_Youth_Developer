@@ -41,7 +41,7 @@ import './Promos.css'
       <hr></hr>
       <div class='container-giftcard'>
       <article class="gift-card" id='gift_now'>
-        <div class="gift-card__image">
+        <div class="gift-card__image1">
         </div>
         <section class="gift-card__content">
         <h1 className="Sub_header_Promos">Men</h1>

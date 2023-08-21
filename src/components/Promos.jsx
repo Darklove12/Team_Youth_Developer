@@ -35,8 +35,7 @@ import './Promos.css'
         <h1 className="Sub_header_Promos">Women</h1>
           <div class="gift-card__amount">2 Ladies Sweaters and Joggers</div>
           <div class="gift-card__amount-remaining">R750 Remaining</div>
-          <div class="gift-card__image">https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fExhZGllcyUyMFN3ZWF0ZXJzJTIwYW5kJTIwSm9nZ2Vyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60</div>
-          <div class="gift-card__msg">Use this code at checkout to redeem your gift card</div>
+    
         </section>
       </article>
       </div>

@@ -32,6 +32,20 @@ import './Promos.css'
         <div class="gift-card__image">
         </div>
         <section class="gift-card__content">
+        <h1 className="Sub_header_Promos">Women</h1>
+          <div class="gift-card__amount">Reward</div>
+          <div class="gift-card__amount-remaining">R50 Remaining</div>
+          <div class="gift-card__code">645D 4353 FF77 DFG8</div>
+          <div class="gift-card__msg">Use this code at checkout to redeem your gift card</div>
+        </section>
+      </article>
+      </div>
+      <div class='container-giftcard'>
+      <article class="gift-card" id='gift_now'>
+        <div class="gift-card__image">
+        </div>
+        <section class="gift-card__content">
+        <h1 className="Sub_header_Promos">Men</h1>
           <div class="gift-card__amount">Reward</div>
           <div class="gift-card__amount-remaining">R50 Remaining</div>
           <div class="gift-card__code">645D 4353 FF77 DFG8</div>

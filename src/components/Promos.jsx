@@ -26,13 +26,25 @@ const Promos = () => {
 
 <PromoItem
           backgroundColor="red"
-          image="https://images.unsplash.com/photo-1629872430082-93d8912beccf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
-          header="Back To School"
-          name="School furniture special"
+          image="https://images.unsplash.com/photo-1519415943484-9fa1873496d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          header="Female Formal Shoes"
+          name="Shoes special"
           priceText="yeah R999"
         />
+<PromoItem
+          backgroundColor="pink"
+          image="https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2F0Y2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          header="Watch Unique"
+          name="Female + Male Special!!!"
+          priceText="woooooow R2999"
+        />
+
+
+
+
       </div>
     </div>
+
   );
 };
 

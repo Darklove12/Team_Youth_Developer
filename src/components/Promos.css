@@ -1,3 +1,28 @@
+.Header_Ladies
+{
+  
+  width: 100%;
+  height: 80px;
+
+}
+.Sub_header_Ladies
+{
+  text-align: center;
+}
+.Header_Ladies > ul
+{
+  display: flex;
+  list-style: none;
+}
+li > button
+{
+  border-style: none;
+} 
+
+
+
+
+
 .btn-group {
     margin-left: -79rem;
     margin-top: 6rem;

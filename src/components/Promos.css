@@ -18,6 +18,32 @@ li > button
 {
   border-style: none;
 } 
+.card{
+    padding:0;
+    width: 18rem;
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
     /* display: flex; */
     justify-content: center;

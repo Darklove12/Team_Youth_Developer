@@ -27,7 +27,98 @@ import './Promos.css'
           </li>
         </ul>
       </div> 
-      <div class='container-giftcard'>
+      <h1 className="Sub_header_Promos">Women</h1>
+      <div id="carouselExampleControls" class="carousel carousel-dark slide" data-bs-ride="carousel"/>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="card-wrapper container-sm d-flex  justify-content-around">
+      <div class="card  " >
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+          <div class="gift-card__name">2 Ladies Sweaters and Joggers</div>
+          <div class="gift-card__amount-remaining">R750 Remaining</div>
+  </div>
+</div><div class="card">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+        </div>
+        <div class="card">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+</div>
+</div>
+    </div>
+    <div class="carousel-item">
+      <div class="card-wrapper container-sm d-flex   justify-content-around">
+      <div class="card  ">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+</div><div class="card">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+        </div>
+        <div class="card" >
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+</div>
+    </div>
+    </div>
+    <div class="carousel-item">
+      <div class="card-wrapper container-sm d-flex  justify-content-around">
+      <div class="card ">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+</div>
+        <div class="card">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+        </div>
+        <div class="card">
+  <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    
+  </div>
+</div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+
+
+      /* <div class='container-giftcard'>
       <article class="gift-card" id='gift_now'>
         <div class="gift-card__image">
         </div>
@@ -51,7 +142,10 @@ import './Promos.css'
       </article>
       </div>
 
+    
     </div>
+    
+    
    )
  }
 

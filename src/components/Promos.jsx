@@ -38,6 +38,7 @@ import './Promos.css'
         </section>
       </article>
       </div>
+      <hr></hr>
       <div class='container-giftcard'>
       <article class="gift-card" id='gift_now'>
         <div class="gift-card__image">
